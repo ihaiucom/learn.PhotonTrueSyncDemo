@@ -1,0 +1,436 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     3993 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\IhaiuLog_unity.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\IhaiuLog_unity.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\TrueSync.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\TrueSync.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.923146 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: e9bc -> priority: 1 
+  Thread -> id: 8b50 -> priority: 1 
+  Thread -> id: eef4 -> priority: 1 
+  Thread -> id: e700 -> priority: 1 
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     3993 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\IhaiuLog_unity.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\IhaiuLog_unity.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\TrueSync.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\TrueSync.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.849429 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: c510 -> priority: 1 
+  Thread -> id: f604 -> priority: 1 
+  Thread -> id: a1f8 -> priority: 1 
+  Thread -> id: 81e4 -> priority: 1 
+15:25:35.571	Log	Default	[OnConnectedToPhoton]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:25:35.669	Log	Default	[OnConnectedToMaster]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:25:37.208	Log	Default	[OnConnectedToPhoton]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:25:37.318	Log	Default	[OnConnectedToMaster]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:25:44.765	Log	Default	[OnJoinedLobby]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:25:44.767	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:25:48.798	Log	Default	[OnJoinedLobby]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:25:48.801	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:26:11.781	Log	Default	[OnLeftLobby]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:26:12.64	Log	Default	[OnPhotonCustomRoomPropertiesChanged]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:26:12.65	Log	Default	[OnCreatedRoom]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:26:12.65	Log	Default	[OnJoinedRoom]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:26:12.817	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:26:38.378	Log	Default	[OnLeftLobby]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:26:38.663	Log	Default	[OnPhotonCustomRoomPropertiesChanged]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:26:38.664	Log	Default	[OnCreatedRoom]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:26:38.665	Log	Default	[OnJoinedRoom]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     3993 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\IhaiuLog_unity.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\IhaiuLog_unity.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\TrueSync.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\TrueSync.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.281514 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 86f0 -> priority: 1 
+  Thread -> id: 7958 -> priority: 1 
+  Thread -> id: ed1c -> priority: 1 
+  Thread -> id: f70c -> priority: 1 
+15:30:54.65	Log	Default	[OnConnectedToPhoton]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:30:54.163	Log	Default	[OnConnectedToMaster]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:31:0.593	Log	Default	[OnJoinedLobby]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:31:0.596	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:31:17.360	Log	Default	[OnLeftLobby]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:31:17.692	Log	Default	[OnPhotonCustomRoomPropertiesChanged]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:31:17.693	Log	Default	[OnCreatedRoom]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:31:17.694	Log	Default	[OnJoinedRoom]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:31:50.474	Log	Default	[OnPhotonPlayerConnected]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:31:56.789	Log	Default	[OnPhotonPlayerDisconnected]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     3993 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\IhaiuLog_unity.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\IhaiuLog_unity.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\TrueSync.dll (this message is harmless)
+Loading C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\TrueSync.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\zengfeng\github\learn.PhotonTrueSyncDemo\Client\Builds\Win\Sync_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.288765 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 95c8 -> priority: 1 
+  Thread -> id: ed8c -> priority: 1 
+  Thread -> id: eda0 -> priority: 1 
+  Thread -> id: eb64 -> priority: 1 
+15:32:32.490	Log	Default	[OnConnectedToPhoton]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:32:32.588	Log	Default	[OnConnectedToMaster]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:32:34.68	Log	Default	[OnJoinedLobby]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:32:34.73	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:32:47.101	Log	Default	[OnPhotonPlayerConnected]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:32:48.133	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:33:2.566	Log	Default	[OnLeftRoom]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:33:2.781	Log	Default	[OnConnectedToMaster]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:33:3.565	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:33:14.47	Log	Default	[OnJoinedLobby]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:33:14.48	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:33:22.296	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:33:22.296	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:33:41.860	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:33:41.860	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:8.76	Log	Default	[OnLeftLobby]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:8.377	Log	Default	[OnPhotonPlayerPropertiesChanged]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:8.378	Log	Default	[OnPhotonCustomRoomPropertiesChanged]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:8.378	Log	Default	[OnJoinedRoom]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:9.374	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:11.540	Log	Default	[OnLeftLobby]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:11.841	Log	Default	[OnPhotonPlayerConnected]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:11.842	Log	Default	[OnPhotonPlayerPropertiesChanged]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:11.842	Log	Default	[OnPhotonPlayerPropertiesChanged]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:11.843	Log	Default	[OnPhotonCustomRoomPropertiesChanged]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:11.843	Log	Default	[OnJoinedRoom]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:16.775	Log	Default	[OnLeftRoom]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:16.990	Log	Default	[OnConnectedToMaster]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:25.921	Log	Default	[OnJoinedLobby]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15:34:25.922	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16:11:8.843	Log	Default	[OnMasterClientSwitched]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16:11:8.843	Log	Default	[OnPhotonPlayerDisconnected]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16:11:8.859	Log	Default	[OnMasterClientSwitched]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16:11:8.860	Log	Default	[OnPhotonPlayerDisconnected]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16:11:9.859	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16:51:38.105	Log	Default	[OnMasterClientSwitched]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16:51:38.105	Log	Default	[OnPhotonPlayerDisconnected]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16:51:38.106	Log	Default	[OnLeftRoom]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16:51:38.372	Log	Default	[OnConnectedToMaster]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16:51:39.105	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16:53:9.131	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+16:53:11.662	Log	Default	[OnReceivedRoomListUpdate]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
